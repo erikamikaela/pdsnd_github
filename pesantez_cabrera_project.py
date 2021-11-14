@@ -146,8 +146,8 @@ if city_ in ['New York','Chicago']:
     b=int(pp['Birth Year'].min())
     c=int(pp['Birth Year'].mode()[0]) 
     
-    print('\n The youngest user was born in {} \n \n The oldest user was born in {} \n \n The most common year of birth is {}'.format(a,b,c))
-    
+    print('\n The youngest user male was born in {} \n \n The oldest user male was born in {} \n \n The most common year of birth is {}'.format(a,b,c))
+    print('\n The youngest user female was born in {} \n \n The oldest user female was born in {} \n \n The most common year of birth is {}'.format(a,b,c))    
     
     
     
