@@ -7,7 +7,7 @@
 python bikeshare project
 
 ### Description
-It depicts some frequency plots about bikeshare use
+It depicts some frequency plots about use of bikes in Chicago, NewYork and LA
 
 ### Files used
 Include the files used
