@@ -13,8 +13,4 @@ It depicts some frequency plots about use of bikes in Chicago, NewYork and LA
 all csv files
 
 ### Credits
-UDACITY
-UDACITY
-UDACITY
-UDACITY
-UDACITY
+
