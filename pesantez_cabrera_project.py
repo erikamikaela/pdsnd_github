@@ -117,7 +117,7 @@ while True:
             print(pp.iloc[i:i+5,])
             i=i+5
     
-#popular times of travel
+#popular times of travel, popular times of travel,popular times of travel
 
 print('\n Check out the results of your search. \n\n The most common month for a trip is {}'.format(pp['month'].mode()[0]))
 print('\n The most common day of week for a trip is {}'.format(pp['day_of_week'].mode()[0]))
