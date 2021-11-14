@@ -10,8 +10,8 @@ python bikeshare project
 It depicts some frequency plots about use of bikes in Chicago, NewYork and LA
 
 ### Files used
-Include the files used
+all csv files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+UDACITY
 
